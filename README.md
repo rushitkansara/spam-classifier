@@ -26,14 +26,14 @@ A machine learning-based project that classifies emails as **Spam** or **Not Spa
 
 ## Project Structure
 
-emailSpamClassifier/
-|
-|––– spam_classifier.ipynb   #Jupyter notebook for training and evaluation
-|––– app.py                  #Interface (Streamlit)
-|––– requirements.txt        #Dependency list
-|––– data/                   #Dataset from kaggle
-|––– .gitignore
-|––– README.md               #You're reading it!
+- emailSpamClassifier/
+- |
+- |––– spam_classifier.ipynb   #Jupyter notebook for training and evaluation
+- |––– app.py                  #Interface (Streamlit)
+- |––– requirements.txt        #Dependency list
+- |––– data/                   #Dataset from kaggle
+- |––– .gitignore
+- |––– README.md               #You're reading it!
 
 ---
 
@@ -61,10 +61,9 @@ streamlit run app.py
 
 ## Sample Output
 
-Email                         |  Prediction
-––––––––––––––––––––––––––––––|––––––––––––
-"Congratulations, you won!"   |  Spam
-"Team meeting at 3 PM"        |  Not Spam
+- Email                         |  Prediction
+- "Congratulations, you won!"   |  Spam
+- "Team meeting at 3 PM"        |  Not Spam
 
 ---
 
@@ -84,6 +83,7 @@ Kaggle dataset - https://www.kaggle.com/datasets/uciml/sms-spam-collection-datas
 
 ## Authors
 
-Rushit Kansara   - https://github.com/Rushitkansara
-ChatGPT          - https://chatgpt.com
+- Rushit Kansara   - https://github.com/Rushitkansara
+- ChatGPT          - https://chatgpt.com
 
+---
