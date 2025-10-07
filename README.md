@@ -9,7 +9,7 @@ A machine learning-based project that classifies emails as **Spam** or **Not Spa
 - Preprocessing: punctuation removal, stemming, lowercasing
 - TF-IDF vectorization of email text
 - Multinomial Naive Bayes model
-- Accuracy: ~98% on test data
+- Accuracy: ~95% on test data
 - Streamlit app interface via `app.py`
 
 ---
